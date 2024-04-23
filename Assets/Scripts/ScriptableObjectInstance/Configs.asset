@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 539596d7e834f3844a7e16848b33aea9, type: 3}
+  m_Name: Configs
+  m_EditorClassIdentifier: 
+  dataConfigs:
+  - gameName: Across the Obelisk
+    totalTime: 44
+    price: 19.99
+    reviews: 8676
+    rating: 83
+    imageName: Across the Obelisk
+  - gameName: Elden Ring
+    totalTime: 63
+    price: 59.99
+    reviews: 597805
+    rating: 92
+    imageName: Elden Ring
+  - gameName: Granblue Fantasy Relink
+    totalTime: 8.5
+    price: 59.99
+    reviews: 29008
+    rating: 89
+    imageName: Granblue Fantasy Relink
+  - gameName: It Takes Two
+    totalTime: 11.8
+    price: 39.99
+    reviews: 139259
+    rating: 94
+    imageName: It Takes Two
+  - gameName: Monster Hunter Rise
+    totalTime: 581.5
+    price: 39.99
+    reviews: 60339
+    rating: 81
+    imageName: Monster Hunter Rise
+  - gameName: Monster Hunter World
+    totalTime: 1156.5
+    price: 29.99
+    reviews: 260930
+    rating: 88
+    imageName: Monster Hunter World
+  - gameName: NeiR
+    totalTime: 10.5
+    price: 39.99
+    reviews: 92672
+    rating: 87
+    imageName: NeiR
+  - gameName: PUBG
+    totalTime: 42.8
+    price: 0
+    reviews: 2345562
+    rating: 58
+    imageName: PUBG
+  - gameName: Remnant2
+    totalTime: 52
+    price: 49.99
+    reviews: 34395
+    rating: 84
+    imageName: Remnant2
+  - gameName: Slay the Spire
+    totalTime: 212.7
+    price: 24.99
+    reviews: 132180
+    rating: 97
+    imageName: Slay the Spire
